@@ -9,7 +9,7 @@ public class Zadanie1 {
 		
 	
 		if (a%2 == 0) {
-			System.out.println("Liczba "+a+" jest parzysta.");
+			System.out.println("Liczba "+ a +" jest parzysta.");
 		}
 		else {
 			System.out.println("Liczba "+a+" jest    nieparzysta.");
