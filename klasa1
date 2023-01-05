@@ -12,7 +12,7 @@ public class Zadanie1 {
 			System.out.println("Liczba "+a+" jest parzysta.");
 		}
 		else {
-			System.out.println("Liczba "+a+" jest nieparzysta.");
+			System.out.println("Liczba "+a+" jest    nieparzysta.");
 		}
 }
 }
