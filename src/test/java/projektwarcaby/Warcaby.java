@@ -7,7 +7,7 @@ public class Warcaby {
 	char pionek;
 	
 	
-	public Warcaby () {
+	public Warcaby() {
 		
 		plansza = new char[8][8];
 		biale_pionki = 12;
