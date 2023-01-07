@@ -1,5 +1,6 @@
 package projektwarcaby;
 import java.util.Scanner;
+
 public class Warcaby {
 	char [][] plansza;
 	int biale_pionki;
