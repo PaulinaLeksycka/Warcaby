@@ -41,7 +41,7 @@ public class Warcaby {
 			System.out.print(" "+plansza[j][i]+" " + "|");
 		    }
 		    
-		    System.out.println();
+		     System.out.println();
 		    System.out.print(" +---+---+---+---+---+---+---+---+");
 		    System.out.println();
 		}
