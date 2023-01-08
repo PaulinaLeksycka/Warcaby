@@ -28,6 +28,23 @@ public class Warcaby {
 		    plansza[i][2] = 'b';
 		    plansza[i][6] = 'c';
 		}
+		
+		
+	public void Plansza() {
+		int i,j;
+		System.out.println("   1   2   3   4   5   6   7   8 ");
+		System.out.println(" +---+---+---+---+---+---+---+---+");
+		for (i=0;i<8;i++) {
+		    System.out.print((i+1) + "|");
+		    for (j=0;j<8;j++) {
+			System.out.print(" "+plansza[j][i]+" " + "|");
+		    }
+		    
+		    System.out.println();
+		    System.out.print(" +---+---+---+---+---+---+---+---+");
+		    System.out.println();
+		}
+	    }
 	  }
 
   
