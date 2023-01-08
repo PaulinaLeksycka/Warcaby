@@ -28,7 +28,7 @@ public class Warcaby {
 		    plansza[i][2] = 'b';
 		    plansza[i][6] = 'c';
 		}
-	  }
+	  	}
 
   
   
