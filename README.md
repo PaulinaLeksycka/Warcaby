@@ -3,7 +3,7 @@ Program symulujący grę w warcaby.
 
 Dwóch graczy, 12 pionków czarnych i 12 pionków białych. Program wyświetla planszę 8x8 oraz miejsce na wpisywanie ruchów. 
 
-Pionki białe: b oraz B (dama).
+Pionki białe: b oraz B (dama).\
 Pionki czarne: c oraz C (dama).
 
 
